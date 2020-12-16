@@ -239,3 +239,10 @@ main form input{
    justify-content:flex-start;
 }
 
+.custom-select select{
+    width: 200px;
+    height: 40px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+   
+}
