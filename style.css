@@ -156,3 +156,48 @@
 .li-5 div{
     text-align: left;
 }
+.card{
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: white;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+.input-group{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+}
+.form-control{
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-top-left-radius: .25rem; 
+    border-bottom-left-radius: .25rem; 
+}
+.btn{
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: #212529a6;
+    border: 1px solid #212529a6;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-top-right-radius: .25rem; 
+    border-bottom-right-radius: .25rem; 
+}
