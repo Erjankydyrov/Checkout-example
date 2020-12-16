@@ -62,3 +62,97 @@
     border-radius: 50%;
     padding: .35em .65em;
 }
+.table-ul{
+    display: flex;
+    flex-direction: column;
+    color: rgb(33, 37, 41);
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 5px;
+    margin-bottom: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0;
+}
+.table-ul li{
+    list-style-type: none;
+}
+.li-1{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 8px;
+    border-bottom: 1px solid  rgba(0, 0, 0, 0.125);
+    color: rgb(33, 37, 41);
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.li-1 div{
+    text-align: left;
+}
+.my-0{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.text-muted{
+    color: rgb(108, 117, 125);
+    font-size: 14px;
+    font-weight: 400;
+}
+.li-2{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 8px;
+    border-bottom: 1px solid  rgba(0, 0, 0, 0.125);
+    color: rgb(33, 37, 41);
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.li-2 div{
+    text-align: left;
+}
+.li-3{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 8px;
+    border-bottom: 1px solid  rgba(0, 0, 0, 0.125);
+    color: rgb(33, 37, 41);
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.li-3 div{
+    text-align: left;
+}
+.li-4{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(248, 249, 250);
+    padding: 16px 8px;
+    border-bottom: 1px solid  rgba(0, 0, 0, 0.125);
+    color: #20c997;
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.li-4 div{
+    text-align: left;
+}
+.text-success{
+    color: #20c997;
+}
+.li-5{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 8px;
+    border-bottom: 1px solid  rgba(0, 0, 0, 0.125);
+    color: rgb(33, 37, 41);
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.li-5 div{
+    text-align: left;
+}
