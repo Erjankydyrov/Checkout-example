@@ -268,8 +268,8 @@ main form input{
 }
 .CheckBoxes{
     width: 620px;
-    border-bottom: 1px solid black;
-    border-top: 1px solid black;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    border-top: 1px solid rgba(0, 0, 0, 0.125);
     padding: 20px 0;
 }
 .Radios li{
@@ -296,5 +296,44 @@ margin-bottom: 8px;
     margin-top: 3px;
     color: #6c757d;
     font-size: .875em;
+}
+
+.PayInput{
+    width: 250px;
+}
+.PayCodeDiv{
+    width: 150px;
+}
+.PayCodes{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    padding-bottom: 25px;
+    width: 620px;
+    margin-bottom: 30px;
+}
+.FinishBtn{
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background-color: #0d6efd;
+    padding: 10px 207px;
+}
+.SpanDiv span{
+   background-color: #e9ecef;
+   width: 39px;
+   text-align: center;
+   padding-top: 7px;
+   border-bottom-left-radius: 5px;
+   border-top-left-radius: 5px;
+   border: 1px solid #ced4da;
+   border-right: 0px;
+}
+.SpanDiv{
+    display: flex;
+}
+.SpanDiv input{
+    width: 580px;
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
 }
 
