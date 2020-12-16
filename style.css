@@ -254,3 +254,15 @@ main form input{
     flex-wrap: nowrap;
     margin-bottom: 30px;
 }
+.ZIP{
+    display: inline;
+}
+.ZIPINP{
+    width: 175px;
+    margin-left: 15px;
+}
+.CB{
+    width: 15px;
+    height: 15px;
+    border-top: 10px;
+}
