@@ -1,3 +1,25 @@
 *{
     box-sizing: border-box;
 }
+.cont-1{
+    padding: 48px 0;
+    text-align: center;
+}
+.logo{
+    width: 72px;
+    margin-bottom: 24px;
+}
+.cont-1 h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.lead{
+    color: rgb(33, 37, 41);
+    margin-bottom: 16px;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 900px;
+    font-weight: 300;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
