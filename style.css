@@ -337,3 +337,10 @@ margin-bottom: 8px;
     border-top-left-radius: 0px;
 }
 
+footer{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
