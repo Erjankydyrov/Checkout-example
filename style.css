@@ -246,3 +246,11 @@ main form input{
     border-radius: .25rem;
    
 }
+.custom-select{
+    margin-right: 25px;
+}
+.Form-Select-Container{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 30px;
+}
